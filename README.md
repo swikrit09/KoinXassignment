@@ -1,8 +1,12 @@
-# React + Vite
+# KoinX Assignment Details
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Steps to Run: 
+1. Clone the repository.
+2. Install node_modules using `npm i` command.
+3. Start project using  `npm run dev` command. 
 
-Currently, two official plugins are available:
+## Important Links 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Deployment Link: https://koinx-swikki.vercel.app
+### Design Link: https://www.figma.com/file/VRj5MqVPoQdj5N7AwmYc98/KoinX---Frontend-Intern-Assignment?type=design&node-id=57-439&mode=design&t=tOnH9MaPPyvKIy9t-0
+### Assignment Link: https://koinx.notion.site/KoinX-Frontend-Intern-Assignment-8d58a764615d445087b666bf0f6daf4a
