@@ -7,8 +7,8 @@ import SentimentSection from "../components/SentimentSection"
 import ToggleSection from "../components/ToggleSection"
 import Tokenomics from "../components/Tokenomics"
 import TrendingCoins from "../components/TrendingCoins"
-import Team from "../components/TeamCard"
 import SuggestionSection from "../components/SuggestionSection"
+import TeamCard from "../components/TeamCard"
 
 
 function CoinPage() {
@@ -24,7 +24,7 @@ function CoinPage() {
                     <SentimentSection />
                     <About />
                     <Tokenomics />
-                    <Team />
+                    <TeamCard />
                 </div>
                 <div className="lg:w-4/12 lg:mr-14 mx-4">
                     <CradsPromo />
